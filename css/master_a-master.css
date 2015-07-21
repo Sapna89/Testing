@@ -1,0 +1,271 @@
+#pamphletu1207,#u1208
+{
+	position: relative;
+}
+
+#u1210
+{
+	position: absolute;
+}
+
+#u1211
+{
+	position: absolute;
+	border-color: #C4C4C4;
+	background-color: transparent;
+}
+
+#u1211.PamphletThumbSelected
+{
+	background-color: transparent;
+}
+
+#u1278
+{
+	background-color: #009BDA;
+	position: relative;
+}
+
+#u1276
+{
+	background-color: #009BDA;
+	position: relative;
+}
+
+#u1277
+{
+	background-color: #009BDA;
+	position: relative;
+}
+
+#u1211.PamphletThumbSelected #u1278,#u1211.PamphletThumbSelected #u1276,#u1211.PamphletThumbSelected #u1277
+{
+	background-color: #009BDA;
+}
+
+#u1214
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u1217
+{
+	border-style: none;
+	border-color: #999999;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1216
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#menuu1222
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	position: relative;
+}
+
+#u1224
+{
+	background-color: #009BDA;
+	position: relative;
+}
+
+#u1224:hover
+{
+	background-color: #999999;
+}
+
+#u1224:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1227-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1233
+{
+	background-color: #009BDA;
+	position: relative;
+}
+
+#u1224.MuseMenuActive,#u1233:hover
+{
+	background-color: #999999;
+}
+
+#u1233:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1236-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1238
+{
+	background-color: #009BDA;
+	position: relative;
+}
+
+#u1233.MuseMenuActive,#u1238:hover
+{
+	background-color: #999999;
+}
+
+#u1238:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1241-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1245
+{
+	background-color: #009BDA;
+	position: relative;
+}
+
+#u1238.MuseMenuActive,#u1245:hover
+{
+	background-color: #999999;
+}
+
+#u1245:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1246-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1252
+{
+	background-color: #009BDA;
+	position: relative;
+}
+
+#u1245.MuseMenuActive,#u1252:hover
+{
+	background-color: #999999;
+}
+
+#u1252:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1252.MuseMenuActive
+{
+	background-color: #999999;
+}
+
+#u1254-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u1273
+{
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u1223,#u1230,#u1237,#u1244,#u1251,#u158,#u183,#u189,#u195,#u207
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u180-4
+{
+	background-color: #7F7F7F;
+	letter-spacing: 0px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: bold;
+	position: relative;
+}
+
+#u176,#u181-6
+{
+	background-color: #99CC66;
+	position: relative;
+}
+
+#u182-6
+{
+	background-color: #99CC66;
+	text-align: right;
+	position: relative;
+}
+
+#u124
+{
+	background-color: #007BB6;
+	position: relative;
+}
+
+#u125-6
+{
+	background-color: transparent;
+	text-align: center;
+	color: #DCFFDA;
+	position: relative;
+}
+
