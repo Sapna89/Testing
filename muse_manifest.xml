@@ -1,0 +1,46 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1437500749355">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-master.css" crc="3799289791" ref="pre-conference:registration:index:conference:contact"/>
+    <file name="pre-conference.css" crc="422212903" ref="pre-conference"/>
+    <file name="registration.css" crc="422212903" ref="registration"/>
+    <file name="index.css" crc="439025141" ref="index"/>
+    <file name="conference.css" crc="422212903" ref="conference"/>
+    <file name="contact.css" crc="422212903" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="mobile-menu.mulib" crc="95576157" mt="1422944114000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="museutils.js" crc="521960461" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="webpro.js" crc="220831917" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="touchswipe.js" crc="325405309" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:pre-conference:conference:registration:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="3882821769" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="logoslide.jpg" crc="4102107079" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="lisa_final.jpg" crc="198264494" ref="index"/>
+    <file name="michael - banks.jpg" crc="205883233" ref="index"/>
+    <file name="michelle_final2.jpg" crc="182516573" ref="index"/>
+    <file name="milton chen.jpg" crc="4029779250" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="tagline.jpg" crc="3881381421" ref="index"/>
+    <file name="team.jpg" crc="491495214" ref="index"/>
+    <file name="icons-fb.png" crc="3810689554" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="icons-in.png" crc="47957263" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="icons-tw.png" crc="477977868" ref="index:pre-conference:conference:registration:contact"/>
+    <file name="icon-yt.png" crc="3859541781" ref="index:pre-conference:conference:registration:contact"/>
+  </folder>
+  <file name="index.html" crc="257845245" mt="1437499696297" redirect="true"/>
+  <file name="pre-conference.html" crc="4160023215" mt="1437064945704" redirect="true"/>
+  <file name="conference.html" crc="4096132301" mt="1437064945704" redirect="true"/>
+  <file name="registration.html" crc="3979088211" mt="1437064945704" redirect="true"/>
+  <file name="contact.html" crc="120523504" mt="1437064945704" redirect="true"/>
+</manifest>
